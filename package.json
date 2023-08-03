@@ -2,6 +2,7 @@
   "name": "payload-website",
   "version": "1.0.2",
   "private": true,
+  "license": "UNLICENSED",
   "scripts": {
     "fetchDocs": "node scripts/fetch-docs.mjs",
     "fetchDocs:local": "node scripts/fetch-docs-local.mjs",
